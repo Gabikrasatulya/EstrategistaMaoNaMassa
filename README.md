@@ -14,7 +14,7 @@ Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 
 - Serem mais autônomos na execução de tarefas operacionais
 - Se aproximarem da prática com ferramentas e métodos simples
-- Entenderem melhor o impacto da estratégia na ponta
+- Entenderem melhor o impacto da estratégia na ponta e como solicitam e prioritizam as demandas
 
 ##  O que você vai encontrar aqui
 
@@ -26,6 +26,6 @@ Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 ##  Para quem é este projeto?
 
 - Líderes que querem estar mais próximos da operação
-- Analistas estratégicos que querem entregar mais rápido
-- Pessoas que querem influenciar pelo exemplo (mão na massa)
+- Profissionais estratégicos que querem entregar mais rápido
+- Pessoas que querem influenciar pelo exemplo, sabem fazer o que estão pedindo à equipe 
 
