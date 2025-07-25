@@ -12,9 +12,9 @@ Nenhuma estratégia sobrevive sem execução. Sem pessoas preparadas, toda boa i
 
 Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 
-- Tornarem-se mais autônomos na execução das tarefas operacionais, compreendendo claramente o escopo de cada solicitação.
-- Aproximar-se da prática por meio de ferramentas e métodos simples.
-- Entender melhor o impacto da estratégia na ponta, aprendendo a solicitar e priorizar demandas de forma eficaz.
+- Ganhar clareza sobre a execução e discernimento para avaliar o que está sendo solicitado, como e por quê
+- Aproximar-se da prática por meio de ferramentas e métodos simples
+- Entender melhor o impacto da estratégia na ponta, aprendendo a solicitar e priorizar demandas de forma eficaz
 
 ## O que você vai encontrar aqui
 
