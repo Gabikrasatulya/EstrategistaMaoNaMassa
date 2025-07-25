@@ -11,8 +11,6 @@ Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 - Se aproximarem da prática com ferramentas e métodos simples
 - Entenderem melhor o impacto da estratégia na ponta
 
----
-
 ##  O que você vai encontrar aqui
 
 - Guias práticos por área (Comunicação, Projetos, Dados, Processos)
@@ -20,12 +18,9 @@ Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 - Rotinas e checklists para aplicar a execução no dia a dia
 - Casos reais com antes/depois
 
----
-
 ##  Estrutura do projeto
 
 ##
----
 
 ##  Para quem é este projeto?
 
