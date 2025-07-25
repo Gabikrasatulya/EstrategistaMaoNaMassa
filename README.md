@@ -1,5 +1,5 @@
 # Guia para estrategistas entenderem a operacionalidade (Mão na Massa) 
-Para profissionais estratégicos que entendem que execução não é detalhe, é o que transforma boas ideias em resultados reais. Aprenda a pedir, agir com foco e evitar voos altos sem base sólida.
+Para profissionais estratégicos que entendem que execução não é detalhe!
 
 Muitas pessoas almejam se tornar mais estratégicas, mas esquecem que uma boa estratégia só ganha valor quando vira **ação**. Este projeto é um guia básico para profissionais com perfil estratégico que desejam desenvolver sua **capacidade operacional**, ganhar **agilidade na execução** e se conectar melhor com o dia a dia das equipes.
 
