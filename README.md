@@ -5,7 +5,7 @@ Muitas pessoas almejam se tornar mais estratégicas, mas esquecem que uma boa es
 
 Nenhuma estratégia sobrevive sem execução. Sem pessoas preparadas, toda boa intenção vira apenas teoria. Durante anos trabalhando com estratégia e operação, percebi que a estratégia sempre foi supervalorizada, enquanto a execução ficou em segundo plano — quando, na verdade, uma não existe sem a outra e ambas merecem seu devido mérito.
 
-! [Não é a genialidade do plano que garante o resultado, mas a capacidade das pessoas que o tornam real.] (https://img.shields.io/badge/Importante-red)
+(Não é a genialidade do plano que garante o resultado, mas a capacidade das pessoas que o tornam real.) [https://img.shields.io/badge/Importante-red]
 
 ## Objetivo
 
