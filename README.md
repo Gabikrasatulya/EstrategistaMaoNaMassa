@@ -15,6 +15,7 @@ Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 - Ganhar clareza sobre a execução e discernimento para avaliar o que está sendo solicitado, como e por quê
 - Aproximar-se da prática por meio de ferramentas e métodos simples
 - Entender melhor o impacto da estratégia na ponta, aprendendo a solicitar e priorizar demandas de forma eficaz
+- Ser perfeccionista quando necessário e saber quando não ser
 
 ## O que você vai encontrar aqui
 
