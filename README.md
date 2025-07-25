@@ -1,31 +1,32 @@
+# Guia para estrategistas se tornarem mais operacionais  
+Para profissionais estratégicos que entendem que execução não é detalhe — é o que transforma boas ideias em resultados reais. Aprenda a pedir, agir com foco e evitar voos altos sem base sólida.
 
-# Estrategista Mão na Massa - Guia para estrategistas que querem entender a execução e transformar ideias em resultados reais.
+Muitas pessoas almejam se tornar mais estratégicas, mas esquecem que uma boa estratégia só ganha valor quando vira **ação**. Este projeto é um guia básico para profissionais com perfil estratégico que desejam desenvolver sua **capacidade operacional**, ganhar **agilidade na execução** e se conectar melhor com o dia a dia das equipes.
 
-Muitas pessoas almejam se tornar mais estratégicas, mas esquecem que uma boa estratégia só ganha valor quando vira **ação**. Este projeto é um guia completo para profissionais com perfil estratégico que querem desenvolver sua **capacidade operacional**, ganhar **agilidade de execução** e se conectar melhor com o dia a dia das equipes.
+Nenhuma estratégia sobrevive sem execução. Sem pessoas preparadas, toda boa intenção vira apenas teoria. Durante anos trabalhando com estratégia e operação, percebi que a estratégia sempre foi supervalorizada, enquanto a execução ficou em segundo plano, quando, na verdade, uma não existe sem a outra.
 
-Nenhuma estratégia sobrevive sem execução. Sem pessoas preparadas, toda boa intenção vira apenas teoria. Durante anos trabalhando com estratégia e operação, percebi que a estratégia sempre foi supervalorizada, enquanto a execução ficou em segundo plano -quando, na verdade, uma não existe sem a outra.
-
-![Importante](https://img.shields.io/badge/Importante-red)
+![Importante](https://img.shields.io/badge/Importante-red)  
 **Não é a genialidade do plano que garante o resultado, mas a capacidade das pessoas que o tornam real!**
 
 ## Objetivo
 
 Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 
-- Serem mais autônomos na execução de tarefas operacionais
-- Se aproximarem da prática com ferramentas e métodos simples
-- Entenderem melhor o impacto da estratégia na ponta e como solicitam e prioritizam as demandas
+- Serem mais autônomos na execução de tarefas operacionais  
+- Se aproximarem da prática com ferramentas e métodos simples  
+- Entenderem melhor o impacto da estratégia na ponta e como solicitar e priorizar demandas  
 
-##  O que você vai encontrar aqui
+## O que você vai encontrar aqui
 
-- Guias práticos por área (Comunicação, Projetos, Dados, Processos)
-- Ferramentas e templates prontos para usar
-- Rotinas e checklists para aplicar a execução no dia a dia
-- Casos reais com antes/depois
+- Guias práticos por área (Comunicação, Projetos, Dados, Processos)  
+- Ferramentas e templates prontos para usar  
+- Rotinas e checklists para aplicar a execução no dia a dia  
+- Casos reais com antes/depois  
 
-##  Para quem é este projeto?
+## Para quem é este projeto?
 
-- Líderes que querem estar mais próximos da operação
-- Profissionais estratégicos que querem entregar mais rápido
-- Pessoas que querem influenciar pelo exemplo, sabem fazer o que estão pedindo à equipe 
+- Líderes que querem estar mais próximos da operação  
+- Profissionais estratégicos que desejam entregar com mais agilidade  
+- Pessoas que querem influenciar pelo exemplo e sabem fazer o que pedem às equipes  
+
 
