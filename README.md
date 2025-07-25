@@ -1,7 +1,7 @@
 
 # Estrategista Mão na Massa - Guia para estrategistas se tornarem mais operacionais
 
-Muitas pessoas almejam se tornar mais estratégicas, mas esquecem que uma boa estratégia só ganha valor quando vira ação. Este projeto é um guia completo para profissionais com perfil estratégico que querem desenvolver sua **capacidade operacional**, ganhar **agilidade de execução** e se conectar melhor com o dia a dia das equipes.
+Muitas pessoas almejam se tornar mais estratégicas, mas esquecem que uma boa estratégia só ganha valor quando vira **ação**. Este projeto é um guia completo para profissionais com perfil estratégico que querem desenvolver sua **capacidade operacional**, ganhar **agilidade de execução** e se conectar melhor com o dia a dia das equipes.
 
 ##  Objetivo
 
