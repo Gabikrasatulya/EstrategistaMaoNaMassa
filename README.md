@@ -1,4 +1,4 @@
-# Guia para estrategistas se tornarem mais operacionais  
+# Guia para estrategistas entenderem a operacionalidade (Mão na Massa) 
 Para profissionais estratégicos que entendem que execução não é detalhe, é o que transforma boas ideias em resultados reais. Aprenda a pedir, agir com foco e evitar voos altos sem base sólida.
 
 Muitas pessoas almejam se tornar mais estratégicas, mas esquecem que uma boa estratégia só ganha valor quando vira **ação**. Este projeto é um guia básico para profissionais com perfil estratégico que desejam desenvolver sua **capacidade operacional**, ganhar **agilidade na execução** e se conectar melhor com o dia a dia das equipes.
@@ -12,9 +12,9 @@ Nenhuma estratégia sobrevive sem execução. Sem pessoas preparadas, toda boa i
 
 Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 
-- Serem mais autônomos na execução de tarefas operacionais  
-- Se aproximarem da prática com ferramentas e métodos simples  
-- Entenderem melhor o impacto da estratégia na ponta e como solicitar e priorizar demandas  
+- Tornarem-se mais autônomos na execução das tarefas operacionais, compreendendo claramente o escopo de cada solicitação.
+- Aproximar-se da prática por meio de ferramentas e métodos simples.
+- Entender melhor o impacto da estratégia na ponta, aprendendo a solicitar e priorizar demandas de forma eficaz.
 
 ## O que você vai encontrar aqui
 
@@ -25,7 +25,7 @@ Capacitar estrategistas (gerentes, coordenadores, líderes) a:
 
 ## Para quem é este projeto?
 
-- Líderes que querem estar mais próximos da operação  
+- Líderes que querem estar mais próximos da operação e entender sobre o processo
 - Profissionais estratégicos que desejam entregar com mais agilidade  
 - Pessoas que querem influenciar pelo exemplo e sabem fazer o que pedem às equipes  
 
